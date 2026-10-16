@@ -1,8 +1,8 @@
 class Xctui < Formula
   desc "Terminal UI to build, run and test Xcode projects"
   homepage "https://github.com/libec/xctui"
-  url "https://github.com/libec/xctui/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "817b711d2f03dcfecd8ac50e8cd4b7edc2dc54d933c698744053298139fbddc4"
+  url "https://github.com/libec/xctui/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "164b9e9ee4597f9f51a1ed8e32e345274213645ced56e44b153b4a28e3cf88f0"
   license "MIT"
 
   depends_on "go" => :build
